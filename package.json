@@ -1,0 +1,22 @@
+{
+  "name": "week-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"We really need to add some testing!!!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TommyJae89/Week-5.git"
+  },
+  "author": "tommytulev@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TommyJae89/Week-5/issues"
+  },
+  "homepage": "https://github.com/TommyJae89/Week-5#readme",
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
+}
